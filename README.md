@@ -1,2 +1,3 @@
-# CoronaTracker
+# CoronaTrackerApp
 Android app to track corona level world wide
+
